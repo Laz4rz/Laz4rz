@@ -1,10 +1,15 @@
-### Hi there 👋
-
 #### Education
 
  - B.S. Physics @ University of Warsaw (specialization in Neuroinformatics)
  - M.S. Physics @ University of Warsaw (dropped after a year to join EPFL)
  - M.S. Neuro-X @ EPFL (Computer Science Minor)
+
+#### Work Experience
+
+- Quantitative Researcher @ TradeLink LLC (2022-2023)
+- ML Researcher @ AstroCeNT - Particle Astrophysics Science And Technology Centre (2021-2023)
+- ML Developer @ SkyTrading (2021-2022)
+- Python Developer @ SkyGate (2021)
 <!--
 **Laz4rz/Laz4rz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
