@@ -2,9 +2,9 @@
 
 #### Education
 
- - B.S. Physics (specialization in Neuroinformatics) @ University of Warsaw
+ - B.S. Physics @ University of Warsaw (specialization in Neuroinformatics)
  - M.S. Physics @ University of Warsaw (dropped after a year to join EPFL)
- - M.S. Neuro-X (Computer Science Minor) @ EPFL
+ - M.S. Neuro-X @ EPFL (Computer Science Minor)
 <!--
 **Laz4rz/Laz4rz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
