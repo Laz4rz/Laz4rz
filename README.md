@@ -12,7 +12,7 @@
 
 #### Academic Experience
 - ML Researcher stipend intern @ AstroCeNT - Particle Astrophysics Science And Technology Centre (2021-2023)
-- Computer vision stipend intern @ Institute of Physical Chemistry, Polish Academy of Sciences (2021)
+- Computer Vision stipend intern @ Institute of Physical Chemistry, Polish Academy of Sciences (2021)
 
 <!--
 **Laz4rz/Laz4rz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
