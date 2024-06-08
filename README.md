@@ -1,6 +1,6 @@
 ##### Education
 
- - B.S. Physics @ University of Warsaw (specialization in Neuroinformatics)
+ - B.S. Physics @ University of Warsaw (Neuroinformatics minor)
  - M.S. Physics @ University of Warsaw
  - M.S. Neuro-X @ EPFL (Computer Science Minor)
 
