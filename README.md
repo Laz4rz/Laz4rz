@@ -1,3 +1,10 @@
+##### Education
+
+ - B.S. Physics @ University of Warsaw (specialization in Neuroinformatics)
+ - M.S. Physics @ University of Warsaw (dropped after a year to join EPFL)
+ - M.S. Neuro-X @ EPFL (Computer Science Minor)
+
+<!--
 #### Education
 
  - B.S. Physics @ University of Warsaw (specialization in Neuroinformatics)
@@ -14,7 +21,6 @@
 - DL Researcher stipend intern @ AstroCeNT - Particle Astrophysics Science And Technology Centre (2021-2023)
 - ML Researcher stipend intern @ Institute of Physical Chemistry, Polish Academy of Sciences (2021)
 
-<!--
 **Laz4rz/Laz4rz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
