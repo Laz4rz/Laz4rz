@@ -1,7 +1,7 @@
 ##### Education
 
  - B.S. Physics @ University of Warsaw (specialization in Neuroinformatics)
- - M.S. Physics @ University of Warsaw (dropped after a year to join EPFL)
+ - M.S. Physics @ University of Warsaw
  - M.S. Neuro-X @ EPFL (Computer Science Minor)
 
 <!--
