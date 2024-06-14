@@ -1,3 +1,5 @@
+I like tinkering with stuff. Sometimes contributing to projects I use, sometimes pushing something to my [Huggingface](https://huggingface.co/Laz4rz).
+
 ##### Education
 
  - B.S. Physics @ University of Warsaw (Neuroinformatics minor)
