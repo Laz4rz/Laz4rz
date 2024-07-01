@@ -1,4 +1,4 @@
-I like tinkering with stuff. Sometimes contributing to projects I use, sometimes pushing something to my [🤗](https://huggingface.co/Laz4rz).
+I like tinkering with stuff.
 
 ##### Education
 
