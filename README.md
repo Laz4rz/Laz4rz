@@ -4,7 +4,7 @@ I like tinkering with stuff.
 
  - B.S. Physics @ University of Warsaw (Neuroinformatics minor)
  - M.S. Physics @ University of Warsaw
- - M.S. Neuro-X @ EPFL (Computer Science Minor)
+ - M.S. Neuroengineering @ EPFL (Computer Science Minor)
 
 <!--
 #### Education
