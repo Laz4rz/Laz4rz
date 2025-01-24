@@ -3,7 +3,7 @@ I like tinkering with stuff.
 ##### Education
 
  - B.S. Physics @ University of Warsaw (Neuroinformatics minor)
- - M.S. Physics @ University of Warsaw
+ - M.S. Physics @ University of Warsaw (Dropped out)
  - M.S. Neuroengineering @ EPFL (Computer Science Minor)
 
 <!--
